@@ -1,0 +1,12 @@
+ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData/
+ASNR-MICCAI-BraTS2023-GLI-Challenge-ValidationData/
+outputs/
+results/
+train.py
+.DS_Store
+__pycache__/
+*.pyc
+*.nii
+*.nii.gz
+*.pt
+*.pth
