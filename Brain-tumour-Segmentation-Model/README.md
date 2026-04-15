@@ -561,7 +561,7 @@ This project implements a 3D glioma segmentation pipeline on the BraTS 2023 GLI 
 
 **Author**
 
-Ayush Patel
+Bhanu Pratap Mishra
 
 HAVE A WONDERFUL DAY AHEAD,AND BE THE BEST
 
